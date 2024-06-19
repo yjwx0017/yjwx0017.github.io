@@ -148,7 +148,7 @@ sudo docker run --restart=always --name daemon_dave -d ubuntu /bin/sh -c \
 [http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html][4]
 
 
-  [1]: http://www.zhouyuanchao.com/usr/uploads/2020/06/16329531.jpg
+  [1]: /usr/uploads/2020/06/16329531.jpg
   [2]: http://blog.csdn.net/jcjc918/article/details/46486655
   [3]: https://www.runoob.com/docker/docker-command-manual.html
   [4]: http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html

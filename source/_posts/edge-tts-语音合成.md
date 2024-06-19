@@ -37,4 +37,4 @@ edge-tts --voice zh-CN-YunxiNeural --text "你好，我是微软语音合成小�
 
 
   [1]: https://gitee.com/yjwx0017/edge-tts-ui
-  [2]: http://www.zhouyuanchao.com/usr/uploads/2024/03/1111535442.png
+  [2]: /usr/uploads/2024/03/1111535442.png

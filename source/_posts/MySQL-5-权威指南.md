@@ -9,4 +9,4 @@ SQL参考：[http://www.w3school.com.cn/sql/][1]
 
 
   [1]: http://www.w3school.com.cn/sql/
-  [2]: http://www.zhouyuanchao.com/usr/uploads/2020/06/3760830490.jpg
+  [2]: /usr/uploads/2020/06/3760830490.jpg

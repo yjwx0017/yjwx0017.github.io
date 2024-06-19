@@ -95,4 +95,4 @@ cd ..
 dpkg -b output xxx.deb     # 重新打包
 ```
 
-  [1]: http://www.zhouyuanchao.com/usr/uploads/2024/04/3068842815.png
+  [1]: /usr/uploads/2024/04/3068842815.png

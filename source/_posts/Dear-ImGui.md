@@ -29,6 +29,6 @@ GitHub上各路神仙上传的截图真的好炫酷。
 
 
   [1]: https://github.com/ocornut/imgui
-  [2]: http://www.zhouyuanchao.com/usr/uploads/2021/01/3650587755.png
+  [2]: /usr/uploads/2021/01/3650587755.png
   [3]: https://github.com/seanchas116/qtimgui
-  [4]: http://www.zhouyuanchao.com/usr/uploads/2021/01/3845625907.jpg
+  [4]: /usr/uploads/2021/01/3845625907.jpg

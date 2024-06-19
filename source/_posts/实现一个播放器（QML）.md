@@ -12,4 +12,4 @@ date: 2024-05-14 12:13:00
 ![截图][2]
 
   [1]: https://gitee.com/yjwx0017/player-qml
-  [2]: https://www.zhouyuanchao.com/usr/uploads/2024/05/1334501850.png
+  [2]: /usr/uploads/2024/05/1334501850.png

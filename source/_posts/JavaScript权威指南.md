@@ -9,4 +9,4 @@ date: 2016-11-29 13:55:00
 
 
   [1]: http://www.w3school.com.cn
-  [2]: http://www.zhouyuanchao.com/usr/uploads/2020/06/4047445979.jpg
+  [2]: /usr/uploads/2020/06/4047445979.jpg

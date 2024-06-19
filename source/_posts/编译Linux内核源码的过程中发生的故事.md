@@ -125,4 +125,4 @@ sudo make install
   [5]: https://github.com/facebookincubator/rpm-backports/blob/master/rpms/mkosi/sources/RPM-GPG-KEY-fedora-25-x86_64
   [6]: https://www.cnblogs.com/lufee/archive/2011/08/30/2160099.html
   [7]: https://zhidao.baidu.com/question/1865322402933792867.html
-  [8]: http://www.zhouyuanchao.com/usr/uploads/2020/06/2482608851.jpg
+  [8]: /usr/uploads/2020/06/2482608851.jpg
