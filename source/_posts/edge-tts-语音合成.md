@@ -26,15 +26,3 @@ edge-tts --list-voices
 ```
 edge-tts --voice zh-CN-YunxiNeural --text "你好，我是微软语音合成小助手。" --write-media hello.mp3
 ```
-
-## 为命令行工具编写一个 UI 界面
-
-使用 Qt 实现。
-
-源码：[https://gitee.com/yjwx0017/edge-tts-ui][1]
-
-![截图][2]
-
-
-  [1]: https://gitee.com/yjwx0017/edge-tts-ui
-  [2]: /usr/uploads/2024/03/1111535442.png
